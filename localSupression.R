@@ -1,5 +1,6 @@
 
 
+
 library(readxl) #allows us to read the excel file
 library(here) #simplifies the use of relative paths
 library(sdcMicro) #privacy package being used for the anonymization
@@ -16,7 +17,7 @@ data <- data[,! names(data) %in% 'name']
 data[,'party'][data[,'party'] == 'Invalid vote'] <- NA
 
 # selecting the quasi-identifier variables based on extra info available to attackers 
-selectedKeyVars = c('sex', 'citizenship', 'marital_status', 'age_range')
+selectedKeyVars = c('sex', 'citizenship', 'marital_status', 'age_range', 'evote')
 
 # selecting the sensitive variable
 selectedSensitiveVar = c('party')
@@ -62,3 +63,4 @@ data2
 #exporting the data
 write_xlsx(data1, here('data', 'localSuppr1.xlsx'))
 write_xlsx(data2, here('data', 'localSuppr2.xlsx'))
+
