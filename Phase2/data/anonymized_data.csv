@@ -1,0 +1,201 @@
+sex,evote,education,marital_status,party,age_group
+Female,1,Middle Education,Married,Green,18-40
+Male,1,Lower Education,Not married,Green,41-70
+Female,1,Middle Education,Married,Red,18-40
+Male,0,Middle Education,Married,Red,41-70
+Male,1,Middle Education,Married,Green,41-70
+Female,0,Middle Education,Not married,Green,41-70
+Female,0,Middle Education,Not married,Red,41-70
+Male,0,Higher Education,Not married,Red,70+
+Male,1,Lower Education,*,Green,70+
+Male,0,Middle Education,Not married,Green,18-40
+Male,0,Lower Education,Married,Red,41-70
+Male,0,Middle Education,Married,Green,41-70
+Female,1,Middle Education,Not married,Green,18-40
+Female,0,Higher Education,Married,Red,18-40
+Male,0,Lower Education,Married,Green,70+
+Female,0,Lower Education,Married,Green,41-70
+Female,0,Middle Education,Not married,Red,70+
+Male,1,Higher Education,Not married,Red,18-40
+Male,0,Middle Education,Not married,Green,41-70
+Female,0,Middle Education,Married,Red,41-70
+Male,0,Middle Education,Married,Green,70+
+Male,1,Middle Education,Not married,Invalid vote,18-40
+Male,1,Lower Education,Not married,Green,18-40
+Female,0,Lower Education,Married,Green,70+
+Male,0,Middle Education,Not married,Red,41-70
+Female,0,Middle Education,Married,Green,18-40
+Female,1,Lower Education,Not married,Green,18-40
+Female,0,Middle Education,Not married,Red,41-70
+Male,1,Not Stated,Married,Green,18-40
+Male,1,Middle Education,Not married,Green,41-70
+Male,1,Lower Education,Married,Green,18-40
+Female,1,Lower Education,Not married,Green,18-40
+Female,0,Middle Education,Married,Invalid vote,41-70
+Female,1,Middle Education,Married,Red,41-70
+Male,0,Middle Education,Married,Green,41-70
+Female,0,Middle Education,Not married,Red,41-70
+Female,1,Lower Education,Not married,Green,41-70
+Female,0,Lower Education,Married,Red,41-70
+Male,0,Middle Education,Married,Red,41-70
+Female,0,Higher Education,Married,Red,18-40
+Female,0,Middle Education,Not married,Green,41-70
+Female,0,Middle Education,Not married,Green,70+
+Male,0,Lower Education,Not married,Green,41-70
+Male,0,Higher Education,Married,Green,41-70
+Female,0,Middle Education,Married,Green,41-70
+Female,1,Higher Education,Married,Green,18-40
+Male,1,Lower Education,Not married,Green,41-70
+Male,1,Middle Education,Not married,Green,18-40
+Female,0,Lower Education,Not married,Green,18-40
+Male,1,Lower Education,Not married,Green,18-40
+Male,1,Middle Education,Not married,Green,18-40
+Male,0,Middle Education,Not married,Green,41-70
+Female,1,Middle Education,Married,Green,41-70
+Male,1,Lower Education,Married,Green,18-40
+Male,0,Middle Education,Married,Red,41-70
+Male,0,Middle Education,Married,Green,41-70
+Male,0,Middle Education,Not married,Green,18-40
+Female,1,Lower Education,Married,Green,18-40
+Male,0,Lower Education,Not married,Green,41-70
+Male,0,Lower Education,Not married,Green,18-40
+Male,0,Lower Education,Not married,Green,18-40
+Female,0,Middle Education,Married,Red,41-70
+Male,0,Middle Education,Not married,Green,18-40
+Female,1,Higher Education,Married,Red,18-40
+Female,1,Lower Education,Not married,Red,18-40
+Female,0,Middle Education,Not married,Green,18-40
+Female,1,Lower Education,Married,Red,41-70
+Male,0,Lower Education,Married,Red,41-70
+Male,1,Middle Education,Not married,Green,18-40
+Female,0,Lower Education,Married,Green,18-40
+Female,1,Higher Education,Married,Red,18-40
+Female,0,Middle Education,Not married,Green,41-70
+Female,1,Middle Education,Married,Red,41-70
+Female,0,Middle Education,Married,Red,18-40
+Female,0,Middle Education,Not married,Green,18-40
+Female,0,Middle Education,Married,Red,41-70
+Male,0,Middle Education,Not married,Red,41-70
+Male,0,Middle Education,Not married,Green,18-40
+Female,1,Not Stated,Not married,Green,41-70
+Male,0,Not Stated,Not married,Red,41-70
+Female,1,Middle Education,Not married,Green,18-40
+Male,1,Middle Education,Married,Green,18-40
+Male,0,Not Stated,Not married,Green,18-40
+Male,0,Middle Education,Married,Red,41-70
+Male,0,Middle Education,Married,Green,41-70
+Male,0,Higher Education,Married,Red,41-70
+Female,0,Lower Education,Married,Red,70+
+Female,1,Middle Education,Not married,Green,18-40
+Male,0,Lower Education,Not married,Red,70+
+Male,0,Middle Education,Not married,Green,41-70
+Male,1,Lower Education,Not married,Green,18-40
+Female,0,Higher Education,Not married,Green,18-40
+Female,0,Middle Education,Married,Red,41-70
+Female,0,Higher Education,Not married,Red,18-40
+Female,1,Middle Education,Not married,Green,18-40
+Male,0,Lower Education,Married,Green,41-70
+Male,0,Higher Education,Married,Red,41-70
+Female,0,Lower Education,Not married,Green,70+
+Female,1,Middle Education,Not married,Green,18-40
+Male,0,Middle Education,Married,Green,41-70
+Female,0,Middle Education,Married,Invalid vote,18-40
+Female,0,Middle Education,Not married,Green,18-40
+Female,1,Middle Education,Married,Red,41-70
+Female,0,Higher Education,Married,Red,41-70
+Female,1,Middle Education,Married,Red,41-70
+Female,0,Middle Education,Not married,Green,18-40
+Male,0,Middle Education,Married,Red,41-70
+Male,0,Lower Education,Married,Green,41-70
+Female,0,Middle Education,Not married,Green,18-40
+Female,1,Middle Education,Not married,Green,18-40
+Male,0,Lower Education,Not married,Red,41-70
+Male,0,Lower Education,Not married,Green,18-40
+Female,0,Middle Education,Married,Red,41-70
+Female,0,Higher Education,Not married,Red,18-40
+Female,0,Lower Education,Not married,Green,18-40
+Female,0,Lower Education,Married,Green,41-70
+Female,0,Middle Education,Not married,Red,41-70
+Male,0,Middle Education,Married,Red,18-40
+Female,0,Higher Education,Married,Red,41-70
+Female,0,Lower Education,Married,Green,41-70
+Female,1,Middle Education,Married,Green,18-40
+Female,0,Middle Education,Married,Red,41-70
+Male,1,Middle Education,Married,Green,41-70
+Female,0,Lower Education,Married,Green,41-70
+Female,0,Lower Education,Not married,Green,70+
+Female,0,Higher Education,Not married,Red,41-70
+Female,1,Lower Education,Not married,Green,41-70
+Male,0,Middle Education,Married,Green,41-70
+Female,0,Middle Education,Not married,Green,18-40
+Female,0,Middle Education,Married,Red,41-70
+Female,0,Lower Education,Not married,Green,70+
+Male,0,Lower Education,Not married,Green,18-40
+Female,1,Qualifying educational programmes,Not married,Green,18-40
+Male,0,Middle Education,Not married,Green,18-40
+Female,0,Middle Education,Married,Green,41-70
+Male,0,Middle Education,Married,Green,41-70
+Male,0,Lower Education,Not married,Green,18-40
+Male,0,Middle Education,Not married,Green,41-70
+Male,1,Higher Education,Not married,Green,18-40
+Female,0,Middle Education,Not married,Red,41-70
+Male,0,Middle Education,Married,Red,41-70
+Male,0,Higher Education,Not married,Green,41-70
+Male,0,Middle Education,Not married,Green,18-40
+Male,0,Middle Education,Married,Red,41-70
+Female,0,Middle Education,Not married,Green,41-70
+Female,0,Higher Education,Not married,Red,70+
+Male,1,Middle Education,*,Green,70+
+Male,0,Lower Education,Married,Red,41-70
+Male,0,Middle Education,Married,Invalid vote,41-70
+Male,0,Lower Education,Not married,Green,18-40
+Male,1,Middle Education,Not married,Green,18-40
+Male,1,Middle Education,Married,Green,41-70
+Female,0,Middle Education,Not married,Red,41-70
+Male,0,Middle Education,Not married,Red,41-70
+Female,0,Middle Education,Not married,Green,41-70
+Female,0,Lower Education,Not married,Red,41-70
+Male,1,Lower Education,Not married,Green,18-40
+Male,0,Middle Education,Not married,Red,41-70
+Female,0,Middle Education,Not married,Green,18-40
+Male,1,Middle Education,Married,Green,18-40
+Female,1,Middle Education,Not married,Green,70+
+Male,0,Middle Education,Not married,Red,41-70
+Female,0,Middle Education,Not married,Green,41-70
+Male,0,Middle Education,Not married,Green,18-40
+Male,1,Lower Education,Married,Green,41-70
+Female,0,Lower Education,Married,Red,41-70
+Male,0,Lower Education,Not married,Green,41-70
+Male,0,Middle Education,Married,Green,41-70
+Female,1,Lower Education,Not married,Green,18-40
+Female,0,Middle Education,Married,Red,41-70
+Male,0,Middle Education,Married,Green,18-40
+Female,1,Middle Education,Not married,Green,41-70
+Male,0,Middle Education,Married,Green,41-70
+Male,0,Lower Education,Not married,Red,41-70
+Female,1,Middle Education,Married,Red,41-70
+Female,0,Middle Education,Married,Red,41-70
+Female,1,Middle Education,Not married,Green,18-40
+Female,0,Middle Education,Married,Green,41-70
+Female,1,Higher Education,Not married,Green,18-40
+Male,0,Middle Education,Not married,Red,41-70
+Male,0,Middle Education,Married,Red,41-70
+Male,0,Lower Education,Not married,Green,18-40
+Female,1,Higher Education,Not married,Red,70+
+Female,0,Lower Education,Married,Red,41-70
+Male,0,Higher Education,Married,Red,41-70
+Female,1,Middle Education,Married,Green,41-70
+Male,0,Lower Education,Married,Green,41-70
+Male,0,Lower Education,Married,Green,41-70
+Female,0,Middle Education,Married,Red,70+
+Female,1,Higher Education,Married,Red,18-40
+Male,0,Middle Education,Married,Red,41-70
+Male,1,Middle Education,Married,Green,18-40
+Male,1,Middle Education,Not married,Green,18-40
+Female,0,Middle Education,Not married,Red,41-70
+Female,0,Lower Education,Married,Red,41-70
+Female,0,Lower Education,Not married,Red,18-40
+Female,1,Middle Education,Married,Red,41-70
+Male,1,Lower Education,*,Green,70+
+Male,0,Middle Education,Married,Green,41-70
+Male,0,Middle Education,Married,Green,70+
