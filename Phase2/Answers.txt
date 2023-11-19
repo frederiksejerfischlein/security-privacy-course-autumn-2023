@@ -1,0 +1,57 @@
+Q1 - Mention something that the group did well
+
+
+
+Q2 - Mention something that the group could improve at
+
+
+
+Q3 - Describe the techniques you used to disclose the preferences of voters in the dataset
+
+Grouped the values based on the available quasi-identifiers in the public data, found the groups that voted all for
+the same party. Matched those groups to the people in them. 
+
+Q4 - For how many voters did you succeed in disclosing their political preferences?
+
+37
+
+
+Q5 - Provide the list of voters in the dataset whose preferences you managed to disclose, together with the disclosed preferences (e.g. "Jane Smith, red")
+
+"Rustemeyer, Lakota","Green"
+"Stewart, Alexandrea","Green"
+"el-Younis, Mu'hsina","Green"
+"Bosshardt, Kaitlin","Green"
+"Garduno, Tronson","Green"
+"Morris, Dakota","Green"
+"Pavisook, Christopher","Green"
+"Taylor, Shawn","Green"
+"Porter, Brandon","Green"
+"Talley, Brian","Green"
+"Tran, Thai","Green"
+"al-Tamer, Basheer","Green"
+"Angulo, Darius","Green"
+"Chavez, Justin","Green"
+"Palser, Bruno","Green"
+"Femat, Juan","Green"
+"Jojola, Ryan","Green"
+"el-Kamara, Aaish","Green"
+"Brandenburg, Justin","Green"
+"al-Saleem, Huraira","Green"
+"Macias-Gonzalez, Dakota","Green"
+"Keator, Keller","Green"
+"Buchanan, Alexander","Red"
+"Vue, Kevin","Red"
+"Chester, Jordan","Green"
+"Singh, Thomas","Green"
+"Angel, Dominic","Green"
+"Song, Daniel","Green"
+"Vasquez, Joseph","Green"
+"Mahns, Kollin","Green"
+"al-Hares, Uthmaa N","Green"
+"al-Sader, Faaid","Green"
+"al-Sultana, Kamaal","Green"
+"Mccarty, Michael","Green"
+"Herrera, Roberto","Green"
+"Grantz, Cody","Green"
+"Villalobos, Juan De Jesus","Green"

@@ -5,12 +5,12 @@ library(writexl) #allows to write into an excel file
 library(lubridate) # simplifies the manipulation of dob into age
 library(dplyr) # simplifies the grouping and joining operations
 
-anonymizedData <- read.csv(here('Phase2','data','anonymized_data.csv')) #reading the file
+anonymizedData <- read.csv(here('data','anonymized_data.csv')) #reading the file
 
-auxiliaryData <- read.csv(here('Phase2', 'data', 'auxiliary_data.csv'), sep = ';') #reading the file
+auxiliaryData <- read.csv(here('data', 'auxiliary_data.csv'), sep = ';') #reading the file
 auxiliaryData <- auxiliaryData[c('name')] # dropping the superfluous columns
 
-publicData <- read_excel(here('Phase2', 'data', 'public_data.xlsx')) #reading the file
+publicData <- read_excel(here('data', 'public_data.xlsx')) #reading the file
 publicData1 <- subset(publicData, name %in% auxiliaryData$name) # dropping the superfluous rows
 
 publicData1$citizenship <- NULL #this was dropped in the anonymised data_set hence it is no longer useful
@@ -42,6 +42,7 @@ anonCompromised <- anonCompromised %>% group_by(sex, evote, marital_status, age_
 
 anonCompromised <- inner_join(anonCompromised, publicData1, by = c('sex', 'evote', 'marital_status', 'age_group')) # joining with the public data so that the name matches
 anonCompromised$count <- NULL #removing superfluous column
+recordsCompromised <- anonCompromised[c('name', 'party')]
 
-write_xlsx(anonCompromised, here('Phase2', 'data', 'recordsCompromised.xlsx')) #saving the data
-
+write_xlsx(anonCompromised, here('data', 'recordsCompromised.xlsx')) #saving the data
+write.csv(recordsCompromised, here('data', 'recordsCompromised.csv'), row.names = FALSE)
