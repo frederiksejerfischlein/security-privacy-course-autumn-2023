@@ -1,10 +1,18 @@
 Q1 - Mention something that the group did well
 
+You nicely introduced and explained the chi-squared test with examples, as well as why it’s good in your case.
 
+All answers to the analysis questions exhaust the topic: they explain what and how is being tested, the methodology (including chosen significance level), the results and what they mean.
+
+Good removal of columns. Stripping citizenship is also a good idea because in this dataset it’s heavily skewed on Denmark, so would provide less quality data.
 
 Q2 - Mention something that the group could improve at
 
+There were no glaring issues spotted, only possible suggestions:
 
+You explain that you are testing the hypothesis of association, and provide the threshold for the p-value in Question C, but use it first in A. Perhaps the explanation could be moved to question A.
+
+Another good anonymization method which could be used is L-diversity, which handles some of the weaknesses of k-anonymity. The chosen party would then be the sensitive variable.
 
 Q3 - Describe the techniques you used to disclose the preferences of voters in the dataset
 
